@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simplified favicon SVG for EMTS (square) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="100%" height="100%" rx="10" ry="10" fill="#0b2240" />
+  <circle cx="32" cy="28" r="22" fill="#caa84b" />
+  <text x="32" y="36" text-anchor="middle" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="800"
+        font-size="20" fill="#07122a">EMTS</text>
+</svg>
